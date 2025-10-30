@@ -7,8 +7,8 @@ function Welcome(){
             marginTop: "100px",
             fontFamily: "Arial, sans-serif",
         }}>
-            <h1>🎉 Welcome!</h1>    
-            <p>You Scanned the QR Code successful.</p>
+            <h1>🎉 Welcome to Hotel XYZZ</h1>    
+            <p>Kindly select the service you would like to use</p>
             <p style={{marginTop: "20x", color: "#555"}}>
                 This is your custom welcome page
             </p>
