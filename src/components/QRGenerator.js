@@ -2,7 +2,7 @@ import React from "react";
 import {QRCodeCanvas} from "qrcode.react";
 
 function QRGenerator(){
-    const url= `${window.location.origin}/welcome`;
+    const url= "https://qr-welcome.vercel.app/welcome";
     
     const downloadQR = () => {
         const canvas = document.querySelector("canvas");
